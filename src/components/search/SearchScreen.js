@@ -6,6 +6,7 @@ import { useForm } from '../../hooks/useForm';
 import { getHeroesByName } from '../../selectors/getHeroesByName';
 import { HeroCard } from '../hero/HeroCard';
 
+
 export const SearchScreen = () => {
 
     const navigate = useNavigate();
