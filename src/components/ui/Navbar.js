@@ -52,7 +52,7 @@ export const Navbar = () => {
                 <ul className="navbar-nav ml-auto">
 
                     <span className="nav-item nav-link text-info">
-                        Seven
+                        Fernando
                     </span>
                     
                     <button 
